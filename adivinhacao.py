@@ -52,7 +52,7 @@ def imprime_titulo():
 def carrega_nivel_dificuldade():
     print("Qual o nível de dificuldade ?")
     print("(1)Fácil (2)Médio (3)Difícil")
-    return int(input("Define o nível: "))
+    return int(input("Defina o nível: "))
 
 
 def inicializa_total_de_tentativas(nivel):
