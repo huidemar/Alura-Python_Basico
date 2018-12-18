@@ -1,6 +1,22 @@
 Introdução ao Python
-Alura - Parte 1
+Alura - Parte 1 e 2
 
-O arquivo Jogos é o menu Principal.
+# O arquivo Jogos é o menu Principal.
 Foram criados dois "jogos" o jogo da Adivinhação e da Forca, o primeiro foi implementado, já o segundo não foi implementado, 
 serviu apenas para aprender a trabalhar importando arquivos.
+
+Conteúdo visto nas aulas
+
+Lidando com a entrada do usuário
+Testando valores
+A sequência do jogo
+Iterando de maneira diferente
+Gerando números aleatórios
+Nível e Pontuação
+Preparando o jogo da forca
+Manipulando strings
+Conhecendo e trabalhando com listas
+Conhecendo e trabalhando com tuplas
+Implementando o encerramento do jogo
+Escrita e leitura de arquivos
+Melhorando o código e a apresentação
