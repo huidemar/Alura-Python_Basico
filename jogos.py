@@ -2,8 +2,6 @@ import forca
 import adivinhacao
 
 def escolhe_jogo():
-    print("----------------------------------")
-    print("Meu primeiro programa P Y T H O N ")
     print("**********************************")
     print("********  Escolha o jogo  ********")
     print("**********************************")
